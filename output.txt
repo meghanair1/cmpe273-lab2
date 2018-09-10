@@ -1,0 +1,12 @@
+
+Run server in one terminal:
+
+(cmpe273-l2) Meghas-MacBook-Pro:addnum megha$ python calculator_server.py
+
+
+Run client in another terminal:
+
+(cmpe273-l2) Meghas-MacBook-Pro:addnum megha$ python calculator_client.py
+the sum of two numbers is : 280
+
+
